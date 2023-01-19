@@ -25,7 +25,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn git, using a react repo
           </a>
           {' | '}
           <a
@@ -34,7 +34,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Vite Docs
+            Vite the repo
           </a>
         </p>
       </header>
